@@ -1,0 +1,1 @@
+MyFirstCppProgram.o: ../MyFirstCppProgram.cpp
